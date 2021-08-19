@@ -16,10 +16,6 @@ Karkkainen, K., & Joo, J. (2021). FairFace: Face Attribute Dataset for Balanced 
 }
 ```
 
-### Examples of FairFace Prediction
-![](https://github.com/dchen236/FairFace/blob/master/examples/female.png)
-![](https://github.com/dchen236/FairFace/blob/master/examples/male.png)
-
 ### Instructions to use FairFace
 
 - Download or Clone this repo
