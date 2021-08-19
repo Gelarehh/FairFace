@@ -73,3 +73,6 @@ License: CC BY 4.0
 
 ### Notes
 The models and scripts were tested on a device with 8Gb GPU, it takes under 2 seconds to predict the 5 images in the test folder.
+
+### Fairface Dataset Download
+A dataset containing train and test figures can be found [here] (https://www.kaggle.com/lantian773030/fairface/download) with a size of 548 MB.
